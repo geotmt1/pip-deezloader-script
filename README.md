@@ -1,4 +1,4 @@
-# pip-deezloader-script
+# pip Deezloader script
 ### A script to make the python Deezloader more user-frendly
 
 [PIP Deezloader GitHub page](https://github.com/An0nimia/deezloader)
@@ -23,3 +23,8 @@
   - Code clean-up
   - Bugfixing if any bugs are found
   - Change option "output" from the app
+  
+ ## Disclaimer
+  - I'm not responsible for any illegal or illicit use of this code
+  
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
