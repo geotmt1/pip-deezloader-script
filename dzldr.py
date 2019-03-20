@@ -143,7 +143,7 @@ if __name__ == "__main__":
             "2": modify_parameters,
             "3": exit_app}
 
-    dl = deezloader.Login("email", "password")
+    dl = deezloader.Login("email", "password", "token")
     option, qualit, chec, recursiv = set_default_options(dl)
     while True:
         os.system('clear')
